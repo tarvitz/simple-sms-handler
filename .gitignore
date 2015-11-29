@@ -1,0 +1,8 @@
+*.py[co]
+.idea
+.coverage
+.cache
+.tox
+*.egg-info
+htmlcov
+django_app/app/db.sqlite3
